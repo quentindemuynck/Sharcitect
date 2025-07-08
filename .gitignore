@@ -73,3 +73,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/FabAssetPack/
+Content/ParagonBoris
+Content/ParagonGideon
+Content/ParagonLtBelica
+Content/ParagonBoris
+
