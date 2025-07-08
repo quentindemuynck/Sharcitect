@@ -1,0 +1,4 @@
+Content/FabAssetPack/** filter=lfs diff=lfs merge=lfs -text
+Content/ParagonBoris/**  filter=lfs diff=lfs merge=lfs -text
+Content/ParagonGideon/** filter=lfs diff=lfs merge=lfs -text
+Content/ParagonLtBelica/** filter=lfs diff=lfs merge=lfs -text
